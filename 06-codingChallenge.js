@@ -9,4 +9,4 @@ function calcTip() {
 
 }
 calcTip()
-//Test data: 125, 555 and 44
+//Test data: 125, 555 and 44//
